@@ -25,14 +25,14 @@ body{
 .info h1{
     background: url("heart.jpg") no-repeat;
     background-size: 77px;
-    background-position: 60%;
+    background-position: 58%;
     padding: 15px 9px 20px 8px;
     margin-bottom: 20px;
     font-size: 50px;
 }
 
 .info ul{
-    padding-left: 470px;
+    padding-left: 570px;
 }
 
 .info li{
@@ -114,7 +114,7 @@ body{
 }
 
 .place h2{
-    margin: 5px 444px 30px 485px;
+    margin: 5px 554px 30px 590px;
     font-size: 25px;
     background: url("cow.jpg") no-repeat;
     background-size: 35px;
