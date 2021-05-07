@@ -18,21 +18,17 @@ body{
 
 .info{
     text-align: center;
-    margin: 50px auto;  
+    margin: 20px auto;  
+    width: 205px;
     font-weight:bold;
 }
 
 .info h1{
-    background: url("heart.jpg") no-repeat;
-    background-size: 77px;
-    background-position: 58%;
-    padding: 15px 9px 20px 8px;
-    margin-bottom: 20px;
+    background: url("heart.jpg");
+    background-size: 70px;
+    background-position: 30%;
+    margin: 40px 40px 30px 30px;
     font-size: 50px;
-}
-
-.info ul{
-    padding-left: 570px;
 }
 
 .info li{
@@ -105,19 +101,20 @@ body{
     width: 200px;
     border-radius: 20%;
     margin: 20px 30px 30px 0px; 
-    padding-bottom: -20px;
 }
 
 .place{
     text-align: center;
-    margin: 20px auto;   
+    margin: 20px auto;  
+    width: auto; 
 }
 
 .place h2{
-    margin: 5px 554px 30px 590px;
+    margin: auto;
     font-size: 25px;
     background: url("cow.jpg") no-repeat;
     background-size: 35px;
+    background-position: 47%;
 }
 
 .place li{
@@ -134,5 +131,5 @@ body{
     width: 200px;
     border-radius: 20%;
     margin: 20px 26px 50px 23px; 
-    padding-bottom: -20px;
+    
 }
